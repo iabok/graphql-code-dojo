@@ -1,0 +1,16 @@
+node_modules
+build
+test
+src/**.js
+.idea/*
+.env
+.pm2
+.Trash-0
+
+coverage
+.nyc_output
+*.log
+
+.DS_Store
+
+yarn.lock
